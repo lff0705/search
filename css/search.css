@@ -1,0 +1,15 @@
+*{ padding: 0; margin: 0}
+.clearfix:after{ clear: both;content: '';display: table}
+.clearfix{ zoom: 1}
+.searchBox{ position: relative; margin: 100px auto; width: 500px; }
+.search{height: 50px; width: 100%; line-height: 50px;border: 1px solid #aaa;padding-left: 10px;}
+.list{ margin-bottom: 30px; width: 100%}
+.item{ list-style: none; height: 40px; line-height: 40px; border-bottom: 1px solid #aaa}
+.item span{float: left}
+.item .kuang{margin: 10px; width: 15px; height: 15px; border: 1px solid #aaa; line-height: 15px; }
+.operationBox .operation{ float: left; margin: 0 30px}
+
+
+
+
+
